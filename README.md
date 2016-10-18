@@ -33,6 +33,54 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
+1.除了Icon以外，还有很多不错的UI设计素材。
+
+地址：http://worldui.com/
+
+2.除了免费Icon资源下载以外，还提供Icon定制的付费服务。
+
+地址：http://dryicons.com/
+
+3.很喜欢这个icon资源站的展示方式。
+
+地址：http://www.icotrip.com/
+
+4.Icones.pro，icon资源站，每日推荐的Icon资源还不错，可以按照浏览数，下载数等查看Icon资源。
+
+地址：http://icones.pro/
+
+5.IconPNG 共收录 21372 个 图标icons 和 416 个 icon 图标系列。
+
+地址：http://www.iconpng.com/
+
+6.FindIcons.com就是一个帮您找免费图标的图标搜索引擎。有3000多套图片集和30多万个免费Icon资源。
+
+地址：http://findicons.com/
+
+7.IconFinder是我个人最喜欢的一个Icon资源站，拥有152,466 icons以及775 icon集,强烈推荐！
+
+地址：http://www.iconfinder.com/
+
+8.EasyIcon：拥有超过40万个Icon资源，完全收录Open Icon Library 11,489个图标。
+
+地址：http://www.easyicon.cn/
+ 9.Incoarchive对于Icon的分类做得较
+
+好，目前约有253,428 icons以及 1,348Icon集。
+
+地址：http://www.iconarchive.com/
+
+10.SoftIcons也是我很喜欢的一个Icon站，其最大的优点在于用户下载Icon集：）
+
+地址：http://www.softicons.com/
+
+11.Icon资源搜索引擎，资源还比较丰富。
+
+地址：http://www.iconlet.com/
+
+12.一个设计感不错的Icon资源站点
+
+地址：http://icon.io/
 
 ## Fonts
 
